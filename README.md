@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Ramjeawon 👾</h1>
 <h3 align="center">Hey there! I'm a passionate computer science student who thrives on creating innovative solutions that enhance lives and foster connectivity. Whether it's tackling complex challenges or refining my time management skills, I'm all in. My ultimate aim is to evolve into a proficient software engineer, constantly seeking opportunities for growth and learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hfj&label=Profile%20views&color=0e75b6&style=flat" alt="hdg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithtejpratab&label=Profile%20views&color=0e75b6&style=flat" alt="codewithtejpratab" /> </p>
 
 - 🔭 I’m currently working on **Start-up**
 
