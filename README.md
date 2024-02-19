@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithtejpratab&label=Profile%20views&color=0e75b6&style=flat" alt="codewithtejpratab" /> </p>
 
-- 🔭 I’m currently working on **Start-up**
+- 🔭 I’m currently working on a **Start-up**
 
 - 🌱 I’m currently learning **CUDA**
 
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://codewithtejpratab.github.io/Portfolio/Portfolio/Homepage)
+- 👨‍💻 All of my projects are available on [Portfolio Website](https://codewithtejpratab.github.io/Portfolio/Portfolio/Homepage)
 
 - 📫 How to reach me **tejinquiries@gmail.com**
 
