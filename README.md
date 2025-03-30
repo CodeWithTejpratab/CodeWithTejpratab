@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **CUDA**
 
-- 👨‍💻 All of my projects are available on [Portfolio Website](https://codewithtejpratab.github.io/Portfolio/Portfolio/Homepage)
+- 👨‍💻 All of my projects are available on [Portfolio Website](https://rahulrportfolio.github.io/)
 
 - 📫 How to reach me **tejinquiries@gmail.com**
 
