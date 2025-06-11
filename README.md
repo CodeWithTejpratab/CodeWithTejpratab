@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithtejpratab&label=Profile%20views&color=0e75b6&style=flat" alt="codewithtejpratab" /> </p>
 
-- 🔭 I’m currently working on an **AI**
+- 🔭 I’m currently working on an **AI productivity app**
 
 - 🌱 Just having fun building new things, you should too 🙃.
 
