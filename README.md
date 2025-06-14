@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on an **AI productivity app**
 
-- 🌱 Just having fun building new things, you should too 🙃.
+- 🌱 Just having fun building new things, you should too 🙃 (P.S. you can game on Linux now!!!!!).
 
 - 👨‍💻 All of my projects are available on [Portfolio Website](https://rahulrportfolio.github.io/)
 
